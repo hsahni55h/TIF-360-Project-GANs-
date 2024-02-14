@@ -1,6 +1,6 @@
 # TIF-360-Project-GANs-
 
-Tis repositiry contains all the information about the project crries out for the course Advanced Machine Learning with Neural Networks (TIF360).
+This repository contains all the information about the project carries out for the course Advanced Machine Learning with Neural Networks (TIF360).
 
 Links to articles for understanding GANs:
 
